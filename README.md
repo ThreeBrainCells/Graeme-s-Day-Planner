@@ -5,6 +5,6 @@ I used a bunch of inputs copied from the Bootstrap library to represent hours fr
 
 When an input's save button is pressed, whatever was put into the input field is saved to local storage, so the input's placeholder text is replaced upon load.
 
-This is the result:
+This is the result:https://threebraincells.github.io/Graeme-s-Day-Planner/
 
 [What my website looks like:] (./Assets/Graeme-Planner-Demo.png)
